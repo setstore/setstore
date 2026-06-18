@@ -1,0 +1,59 @@
+body		{
+		background: #FFFFFF
+		}
+
+body.nav	{
+		background: #FFFFCC
+		}
+
+p		{
+		text-align: justify;
+		color: #000000;
+		font: 11pt "arial"
+		}	
+
+.bld		{
+		font-weight: bold
+		}
+
+.red		{
+		color: #FF0000;
+		font-weight: bold		
+		}
+
+.note		{
+		font: 7pt "arial"
+		}
+
+.wing		{
+		font: bold 26pt "wingdings"		
+		}
+
+.titles		{
+		background:#000000;
+		color:#FFFFFF;
+		font: bold 12pt "arial"
+		}
+
+.topmarg	{
+		margin-top: .5cm
+		margin-bottom: 0cm;
+		}
+
+.botmarg	{
+		margin-bottom: .5cm;
+		margin-top: 0cm;
+		}
+
+TD		{
+		font: 11pt "arial"
+		}
+
+TD.color	{
+		background:#FFFFCC;
+		font: 11pt "arial"
+		}
+
+UL		{
+		font: 11pt "arial"
+		}
